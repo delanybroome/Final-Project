@@ -29,4 +29,10 @@ feature that prioritizes columns (in forest actiivty) SVN
 Day 2 Activity 4 
 random forest classifier - .feature_importance 
 shows list of columns used to predict target and output the effected numbers 
+figure out which has the most effect on area outcome
+recommendations: section on machine learning for this data set. trained dataset on these types of models, which models have the highest accuracy rates, and what features we ued from machine learning ( .feature_importance)
+(also have references section)
 
+clear requirements: machine learning 
+host project on Heroku 
+make sure project is a flask app
