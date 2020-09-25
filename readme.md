@@ -35,3 +35,11 @@ recommendations: section on machine learning for this data set. trained dataset 
 clear requirements: machine learning 
 host project on Heroku 
 make sure project is a flask app
+
+Tableau: 
+ https://public.tableau.com/profile/dave2243#!/vizhome/ProjectFire/AreavsTemp
+ https://public.tableau.com/profile/dave2243#!/vizhome/ProjectFire/AreavsWind
+ https://public.tableau.com/profile/dave2243#!/vizhome/ProjectFire/MonthlySummary
+ https://public.tableau.com/profile/dave2243#!/vizhome/ProjectFire/Sheet1
+ https://public.tableau.com/profile/dave2243#!/vizhome/ProjectFire/Sheet2
+
